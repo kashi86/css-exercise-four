@@ -26,7 +26,6 @@ body {
   height: 300px;
   background-size: cover;
   margin-bottom: 20px;
-  display: inline-block;
 }
 
 .preview h1 {
@@ -55,10 +54,12 @@ body {
 .rome {
   background-image: url("../images/rome.jpg");
   width: 100%;
-
+}
 
 @media screen and (min-width: 575px) {
-  }
+  
+}
+
 
 @media screen and (min-width: 575px) {
   .preview {
